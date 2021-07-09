@@ -18,5 +18,5 @@ export default MyApp
 
 Its. on you SG WEB Site see you.
 
-do use const or fanction so My issue.
+do use Arrowconst or fanction so My issue.
 please tell me.
