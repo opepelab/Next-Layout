@@ -2,7 +2,7 @@ import Metatxt from './Metatxt'
 import Footer from './Footer'
 import Navbar from './Navbar'
 import PictureHigh from './PictureHigh'
-// すべてのコンポーネントをこのファイルが作動する starting components this file.
+// すべての共通して使うコンポーネントはこのファイルを介して作動する starting components this file.
 const Layout = ({ children }) => {
     return (
       <div className="resp">
